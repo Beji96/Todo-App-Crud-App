@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #213547;
+}
+.App {
+  text-align: center;
+}
+input {
+  margin: 10px;
+  width: 300px;
+  height: 40px;
+  font-size: 18px;
+  padding-left: 10px;
+}
+button {
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+}
+#task {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 2em auto;
+  align-self: center;
+}
